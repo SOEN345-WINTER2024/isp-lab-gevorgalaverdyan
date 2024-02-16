@@ -1,5 +1,5 @@
-# Iterator-Example
-created for isp lab
-
-# Iterator Javadoc
-https://docs.oracle.com/javase/7/docs/api/java/util/Iterator.html
+# Iterator-LAB
+<br/>
+## TEAM
+ - Gevorg Alaverdyan #40202177
+ - Jay Patel #40203705
